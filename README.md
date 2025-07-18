@@ -1,6 +1,6 @@
 # SocketSender
 
-Simple C++ command-line program that sends a single message (string) to an address and port using a TCP socket.
+Simple C++ command-line program that sends a single message (string) to an address and port using sockets.
 
 ## Usage
 
