@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SocketSender", "SocketSender\SocketSender.vcxproj", "{BD47537C-DF4B-495B-BAAF-4A30B506B34B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{192F2B6E-F6D9-4E29-BC13-FD09B38B12F2}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD47537C-DF4B-495B-BAAF-4A30B506B34B}.Debug|x64.ActiveCfg = Debug|x64
+		{BD47537C-DF4B-495B-BAAF-4A30B506B34B}.Debug|x64.Build.0 = Debug|x64
+		{BD47537C-DF4B-495B-BAAF-4A30B506B34B}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD47537C-DF4B-495B-BAAF-4A30B506B34B}.Debug|x86.Build.0 = Debug|Win32
+		{BD47537C-DF4B-495B-BAAF-4A30B506B34B}.Release|x64.ActiveCfg = Release|x64
+		{BD47537C-DF4B-495B-BAAF-4A30B506B34B}.Release|x64.Build.0 = Release|x64
+		{BD47537C-DF4B-495B-BAAF-4A30B506B34B}.Release|x86.ActiveCfg = Release|Win32
+		{BD47537C-DF4B-495B-BAAF-4A30B506B34B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83E0C1D3-443E-4583-BC24-56677348A4F2}
+	EndGlobalSection
+EndGlobal
